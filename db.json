@@ -132,5 +132,253 @@
           "robotics": "89",
           "id": "5FbrttZ"
         }
+      ],
+      "emotional": [
+        {
+          "id": "1",
+          "studentName": "",
+          "rollNumber": "",
+          "angerManagement": "",
+          "happinessIndex": "",
+          "decisionMaking": "",
+          "obedience": "",
+          "understanding": "",
+          "brave": "",
+          "problemSolving": ""
+        },
+        {
+          "studentName": "shiva",
+          "rollNumber": "238p1a0213",
+          "angerManagement": "522",
+          "happinessIndex": "852",
+          "decissionMaking": "852",
+          "obedience": "+636",
+          "understanding": "652",
+          "brave": "96",
+          "problemSolving": "852",
+          "id": "JzvaWz4"
+        },
+        {
+          "studentName": "pavan",
+          "rollNumber": "168p1a0289",
+          "angerManagement": "522",
+          "happinessIndex": "852",
+          "decissionMaking": "852",
+          "obedience": "+636",
+          "understanding": "652",
+          "brave": "96",
+          "problemSolving": "852",
+          "id": "ABfGCsJ"
+        },
+        {
+          "studentName": "kalyan",
+          "rollNumber": "168p1a0899",
+          "angerManagement": "522",
+          "happinessIndex": "852",
+          "decissionMaking": "852",
+          "obedience": "+636",
+          "understanding": "652",
+          "brave": "96",
+          "problemSolving": "852",
+          "id": "sDFk7Yv"
+        },
+        {
+          "studentName": "mani",
+          "rollNumber": "188p1a0799",
+          "angerManagement": "522",
+          "happinessIndex": "852",
+          "decissionMaking": "852",
+          "obedience": "+636",
+          "understanding": "652",
+          "brave": "96",
+          "problemSolving": "852",
+          "id": "A4Vcvjh"
+        },
+        {
+          "studentName": "madhu",
+          "rollNumber": "158p1a0219",
+          "angerManagement": "ghjkn,m",
+          "happinessIndex": "ghjk",
+          "decissionMaking": "fghj",
+          "obedience": "tfghj",
+          "understanding": "dfgh",
+          "brave": "dtfghj",
+          "problemSolving": "fdghj",
+          "id": "0YJ8QRK"
+        }
+      ],
+      "skills": [
+        {
+          "id": "1",
+          "studentName": "",
+          "rollNumber": "",
+          "teachinical": "",
+          "art": "",
+          "communication": "",
+          "sports": "",
+          "dance": "",
+          "music": "",
+          "karate": "",
+          "others1": "",
+          "others2": ""
+        },
+        {
+          "studentName": "shiva",
+          "rollNumber": "238p1a0213",
+          "techinical": "good",
+          "art": "A+",
+          "communication": "A+",
+          "sports": "B",
+          "dance": "56",
+          "music": "89",
+          "karate": "78",
+          "others1": "fdghbn",
+          "others2": "dfghbn",
+          "id": "3n7oeQe"
+        },
+        {
+          "studentName": "pavan",
+          "rollNumber": "168p1a0289",
+          "techinical": "good",
+          "art": "A+",
+          "communication": "A+",
+          "sports": "B",
+          "dance": "56",
+          "music": "89",
+          "karate": "78",
+          "others1": "fdghbn",
+          "others2": "dfghbn",
+          "id": "n3s9blX"
+        },
+        {
+          "studentName": "kalyan",
+          "rollNumber": "168p1a0899",
+          "techinical": "good",
+          "art": "A+",
+          "communication": "A+",
+          "sports": "B",
+          "dance": "56",
+          "music": "89",
+          "karate": "78",
+          "others1": "fdghbn",
+          "others2": "dfghbn",
+          "id": "nt8I2KT"
+        },
+        {
+          "studentName": "mani",
+          "rollNumber": "168p1a0799",
+          "techinical": "good",
+          "art": "A+",
+          "communication": "A+",
+          "sports": "B",
+          "dance": "56",
+          "music": "89",
+          "karate": "78",
+          "others1": "fdghbn",
+          "others2": "dfghbn",
+          "id": "Furt4Md"
+        },
+        {
+          "studentName": "Madhu",
+          "rollNumber": "158p1a0219",
+          "techinical": "gfhjjm",
+          "art": "fdghbn",
+          "communication": "gfhj",
+          "sports": "fdghjm",
+          "dance": "dfghj",
+          "music": "dfghj",
+          "karate": "fdghj",
+          "others1": "fdghjb",
+          "others2": "fdghj",
+          "id": "V_Su_A6"
+        }
+      ],
+      "physical": [
+        {
+          "id": "1",
+          "studentName": "",
+          "rollNumber": "",
+          "height": "",
+          "weight": "",
+          "bodyMassIndex": ""
+        },
+        {
+          "studentName": "shiva",
+          "rollNumber": "238p1a0213",
+          "height": "6\"",
+          "weight": "75",
+          "bodyMassIndex": "10",
+          "id": "YCx8grd"
+        },
+        {
+          "studentName": "pavan",
+          "rollNumber": "168p1a0289",
+          "height": "6\"",
+          "weight": "75",
+          "bodyMassIndex": "10",
+          "id": "fACNqdx"
+        },
+        {
+          "studentName": "kalyan",
+          "rollNumber": "168p1a0899",
+          "height": "6\"",
+          "weight": "75",
+          "bodyMassIndex": "10",
+          "id": "nAWFRMr"
+        },
+        {
+          "studentName": "mani",
+          "rollNumber": "168p1a0799",
+          "height": "6\"",
+          "weight": "75",
+          "bodyMassIndex": "10",
+          "id": "U6MSp7R"
+        },
+        {
+          "studentName": "madhu",
+          "rollNumber": "158p1a0219",
+          "height": "iuol;",
+          "weight": "gfhj",
+          "bodyMassIndex": "fcgvhbn",
+          "id": "3ZdOfSu"
+        }
+      ],
+      "achivements": [
+        {
+          "id": "1",
+          "studentName": "",
+          "rollNumber": "",
+          "achivements": ""
+        },
+        {
+          "studentName": "shiva",
+          "rollNumber": "238p1a0213",
+          "achivements": "esrtdhygkujljhg",
+          "id": "_EcOW0i"
+        },
+        {
+          "studentName": "pavan",
+          "rollNumber": "168p1a0289",
+          "achivements": "sdfghj",
+          "id": "FBXgJgs"
+        },
+        {
+          "studentName": "kalyan",
+          "rollNumber": "168p1a0899",
+          "achivements": "sdfghjdfghjbmn",
+          "id": "n8AN7Wi"
+        },
+        {
+          "studentName": "mani",
+          "rollNumber": "168p1a0799",
+          "achivements": "fxdgvb",
+          "id": "pW_pNFZ"
+        },
+        {
+          "studentName": "madhu",
+          "rollNumber": "158p1a0219",
+          "achivements": "fghj",
+          "id": "y_F_4Zd"
+        }
       ]
     }
