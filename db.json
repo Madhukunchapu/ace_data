@@ -1,4 +1,28 @@
 {
+  "user": [
+    {
+      "myname": "Madhu babu k",
+      "mypassword": "admin@~#&*41!",
+      "myemail": "adminmti@gmail.com",
+      "mymobile": "8106465049",
+      "id": 1
+    },
+    {
+      "myname": "Naveen123",
+      "mypassword": "admin@~#&*123",
+      "myemail": "adminmotherti@gmail.com",
+      "mymobile": "9874563210",
+      "id": 2
+    },
+    {
+      "myname": "sathishkumar",
+      "mypassword": "mti@#$^&178",
+      "myemail": "motherteresa@gmail.com",
+      "mymobile": "8745691235",
+      "id": 3
+    }
+  ],
+  
   "student": [
     {
       "id":"1",
